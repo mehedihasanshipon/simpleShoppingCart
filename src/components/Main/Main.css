@@ -1,0 +1,6 @@
+.main,.basket{
+    border: 1px solid salmon;
+    height: 100%;
+    margin: 20px;
+    padding: 20px;
+}
